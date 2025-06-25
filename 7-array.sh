@@ -2,4 +2,4 @@
 
 MOVIES=("COURT" "HIT3" "PUSHPA2" "THANDEL")
 
-ECHO "First Movie: $MOVIE[0]"
+echo "First Movie: $MOVIE[0]"
