@@ -30,7 +30,7 @@ else
     echo "MySQL is already installed.. Nothing to do"
 fi
 
-dnf list installed python 
+dnf list installed python3 
 if [ $? -ne 0 ]
 then
     echo "python3 is not installed.. going to install it"
