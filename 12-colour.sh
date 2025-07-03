@@ -6,4 +6,4 @@ echo "hello no colour"
  
  echo -e "\e[35m hello colours"
 
- echo "Lakshminarasimha P K"
+ echo -e "\e[33m Lakshminarasimha P K"
